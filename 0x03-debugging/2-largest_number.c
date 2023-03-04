@@ -1,7 +1,9 @@
 #include "main.h"
 
 /**
-* main - prints the largest of 3 integers
+* main - Entry point
+*
+* Description - 'prints the largest of 3 integers'
 * @a: first integer
 * @b: second integer
 * @c: third integer
